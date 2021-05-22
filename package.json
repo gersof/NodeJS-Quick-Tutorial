@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-quick-tutorial",
+  "version": "1.0.0",
+  "description": "Este es un laboratorio de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node otro-script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gersof/NodeJS-Quick-Tutorial.git"
+  },
+  "keywords": [
+    "nodejs",
+    "pruebas",
+    "y",
+    "laboratorio"
+  ],
+  "author": "DevTygers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gersof/NodeJS-Quick-Tutorial/issues"
+  },
+  "homepage": "https://github.com/gersof/NodeJS-Quick-Tutorial#readme"
+}
